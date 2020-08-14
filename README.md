@@ -9,6 +9,8 @@
 
 [REST Notebook](https://github.com/woc-hack/msr-challenge/blob/master/RESTJupyter.ipynb)
 
+[How to do sampling](https://github.com/woc-hack/msr-challenge/blob/master/sampling-resource.md)
+
 [Python Notebook](https://github.com/woc-hack/msr-challenge/blob/master/PYJupyter.ipynb)
 
 
