@@ -1,1 +1,1 @@
-(https://octodex.github.com/images/yaktocat.png)
+(https://github.com/atutko2/msr-challenge/blob/master/Sampling%20Resource.png)
