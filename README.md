@@ -1,17 +1,17 @@
-# MSR 2021 Data Challenge Proposal
+# MSR 2021 Hackathon
 
-[Submitted proposal](https://github.com/woc-hack/msr-challenge/blob/master/MSR_Challange.pdf)
+[CFP](https://github.com/woc-hack/msr-hackathon/blob/master/MSR-Hack-CFP.pdf)
 
 
 [WoC Tutorial](https://github.com/woc-hack/tutorial/blob/master/README.md)
 
-[CVE Dataset Notebook](https://github.com/woc-hack/msr-challenge/blob/master/CVEJupyter.ipynb)
+[CVE Dataset Notebook](https://github.com/woc-hack/msr-hackathon/blob/master/CVEJupyter.ipynb)
 
-[REST Notebook](https://github.com/woc-hack/msr-challenge/blob/master/RESTJupyter.ipynb)
+[REST Notebook](https://github.com/woc-hack/msr-hackathon/blob/master/RESTJupyter.ipynb)
 
-[How to do sampling](https://github.com/woc-hack/msr-challenge/blob/master/sampling-resource.md)
+[How to do sampling](https://github.com/woc-hack/msr-hackathon/blob/master/sampling-resource.md)
 
-[Python Notebook](https://github.com/woc-hack/msr-challenge/blob/master/PYJupyter.ipynb)
+[Python Notebook](https://github.com/woc-hack/msr-hackathon/blob/master/PYJupyter.ipynb)
 
 
 
