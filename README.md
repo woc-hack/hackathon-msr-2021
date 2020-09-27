@@ -48,7 +48,7 @@ engineering research are equally welcome.
 
 The teams selected by the PC will have the opportunity to publish
 the description of their work at MSR'2021. Previous WoC hackathon
-resulted in four publications at MST'2020.
+resulted in four publications at MSR'2020.
 
 Any topics related to doing research, building tools, or improving
 infrastructure that supports global OSS development, helps industry
