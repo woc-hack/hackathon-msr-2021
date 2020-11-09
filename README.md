@@ -1,215 +1,80 @@
-# MSR 2021 Hackathon
+## What to do before the hackathon (ASP before Nov 14)
 
-## 1. Call for Participation
+- [Please fill registration form](https://docs.google.com/forms/d/e/1FAIpQLSd4vA5Exr-pgySRHX_NWqLz9VTV2DB6XMlR-gue_CQm51qLOQ/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link) (we will need to create accounts for you)
 
-The proliferation of open source software (OSS) development has
-created novel and massive software supply chains and ecosystems that
-require non-traditional approaches of software development. Even the
-approaches that fared well in the earlier stages of open source
-development are challenged by the sheer scale of the present open
-source ecosystem, the complexity of dependencies among projects, and
-the lack of effective means of establishing trust essential for
-frictionless collaboration - a cornerstone of OSS.
+- [Please join the hackathon slack channel](https://join.slack.com/t/woc-hack/shared_invite/zt-iodol0cm-R99KHgN7KGiuZ0tVvOYZzQ)
 
-World of Code (WoC) is an attempt to cross-reference all OSS
-projects and represents over 120M git repositories from GitHub, GitLab,
-BitBucket, etc. with over 2B git commits (42M authors), 8B
-blobs, and 8.3B trees. The content of these objects is augmented via
-cross-referencing (a graph). For example, all commits that have
-created a specific blob, all repositories where a specific blob or a
-specific commit resides in, all commits for a specified author ID,
-and other maps that are impossible to compute without having an
-almost complete set of repositories.
+- Please go over the [tutorial](https://github.com/woc-hack/tutorial) if you have not done so (at least be able to log in). We will provide training on Sunday (Nov 15), but having some practice should speed things up tremedously.
 
-Hackathons are effective ways to explore research and product ideas
-by teaming up with others on intense but limited in duration
-tasks. We propose WoC online hackathon to explore problems and
-solutions in open source software development that either apply at a
-global scale or require measurement approaches done at that
-scale. Examples for these are any measurements such as complete OSS
-activities of developers, complete downstream dependencies of a
-project, or the provenance of a source code file.
+- Be ready to present the project idea on Nov 1 (1 slide/1 min) ([current ideas](https://github.com/woc-hack/msr-hackathon/edit/master/ideas.md)
 
-The event will provide activities typical of the in-person hackathon
-virtually. For example, defining research questions, forming teams,
-and scoping problems. Organizers will provide advice on
-the best ways to conduct data processing and improve performance.
-The hackathon will also provide the opportunity for participants to
-work with world-class researchers on relevant problems and research
-questions.
+- If you have issues raise themm here https://github.com/woc-hack/msr-hackathon/issues
 
-Please join if you are concerned about the continued health of open
-source software and would like to make a difference! This applies to
-anyone trying to support industry and educational use of open
-source, such as assessing risks, effectiveness and spread of
-tutorials, frameworks, tools, and practices. Questions related to
-obtaining large representative samples of data for software
-engineering research are equally welcome.
+- We will use zoom at https://tennessee.zoom.us/my/audris for the common events and will provide separte zoom channels for individual projects 
 
-The teams selected by the PC will have the opportunity to publish
-the description of their work at MSR'2021. Previous WoC hackathon
-resulted in four publications at MSR'2020.
+## MSR 2021 Hackathon Schedule
 
-Any topics related to doing research, building tools, or improving
-infrastructure that supports global OSS development, helps industry
-use OSS, or educational/training aspects related to work in this
-giant network, are within the scope of the hackathon. For example,
-- Applications that support finding suitable code, people, projects,
-or bugs and/or model the social and technical networks and their
-evolution.
-- Applications that increase transparency by making it easier to
-become a contributor or that helps maintainers zero in on most
-relevant contributions.
-- Applications that increase understanding of software supply chains
-and ecosystem: how and why they function and how to manage risks,
-especially as related to industry use of OSS.
-- Any infrastructure work that does data fusion or data quality
-improvements, such as leveraging all open source data sources in WoC
-resource and beyond.
-- Approaches to better collect data increase the coverage or encourage
-outside contributions.
+* November 14 (10am - 12pm EST): Welcoming session
+* November 15
+     -   9am - 10am EST: WoC tutorial
+     -  10am - 11:30am EST: Checkpoint 1 (Team introductions)
+     -  11:30am - 12:30pm EST: WoC tutorial repeat
+* November 18 (10am - 11:30am EST): Checkpoint 2
+* November 20 (10am - 11:30am EST): Checkpoint 3
+* November 25 (10am - 11:30am EST): Checkpoint 4
+* December 2 (10am - 11:30am EST): Checkpoint 5
+* December 5 (10am - 1pm EST): Final team presentations
 
 
-## 2. Key Dates
 
-* The project ideas from participants will be collected until
-  October 15, 2020.
+## MSR 2021 Hackathon CFP
 
-* The date for hackathon itself will be arranged by conducting the
-  survey of the project idea submitters and will be conducted in
-  November or December of 2020.
+The proliferation of open source software (OSS) development has created novel and massive software supply chains and ecosystems that require non-traditional approaches of software development. Even the approaches that fared well in the earlier stages of open source development are challenged by the sheer scale of the present open source ecosystem, the complexity of dependencies among projects, and the lack of effective means of establishing trust essential for frictionless collaboration - a cornerstone of OSS.
 
-## 3. The Process
+World of Code (WoC) is an attempt to cross-reference all OSS projects and represents over 120M git repositories from GitHub, GitLab, BitBucket, etc. with over 2B git commits (42M authors), 8B blobs, and 8.3B trees. The content of these objects is augmented via cross-referencing (a graph). For example, all commits that have created a specific blob, all repositories where a specific blob or a specific commit resides in, all commits for a specified author ID, and other maps that are impossible to compute without having an almost complete set of repositories.
 
-An online hackathon for researchers who would like to team up with
-others on crucial problems for supporting Open Source
-Software. Organizers will provide training for World of Code
-resource that supports global measurement of OSS in the form of a
-webinar prior to the event.
+Hackathons are effective ways to explore research and product ideas by teaming up with others on intense but limited in duration tasks. We propose WoC online hackathon to explore problems and solutions in open source software development that either apply at a global scale or require measurement approaches done at that scale. Examples for these are any measurements such as complete OSS activities of developers, complete downstream dependencies of a project, or the provenance of a source code file.
 
-The event will provide activities typical of the in-person hackathon
-virtually. For example, defining research questions, forming teams,
-scoping problems. This will be done while also providing advice on
-the best ways to conduct data processing and improve performance.
+The event will provide activities typical of the in-person hackathon virtually. For example, defining research questions, forming teams, and scoping problems. Organizers will provide advice on the best ways to conduct data processing and improve performance. The hackathon will also provide the opportunity for participants to work with world-class researchers on relevant problems and research questions.
 
-Organizers will provide support in the form of mentors that can help
-with technical issues. The hackathon will also provide the
-opportunity for participants to work with world-class researchers on
-relevant problems and research questions.
+Please join if you are concerned about the continued health of open source software and would like to make a difference! This applies to anyone trying to support industry and educational use of open source, such as assessing risks, effectiveness and spread of tutorials, frameworks, tools, and practices. Questions related to obtaining large representative samples of data for software engineering research are equally welcome.
 
-The preparation will involve team forming activities and a set of
-online tutorials during which we will walk MSR Hackathon
-participants through key functionality.
- 
-A dedicated (issue tracker) to answer questions and solve issues for
-the participants of MSR Hackathon will also be available.  Slack and
-Zoom will be suggested as the main means of communication during the
-hackathon between teams, mentors and organizers.  A dedicated Zoom
-room will be provided for each team during the entire duration of
-the event.
+The descriptions of the projects selected by the PC will be published at the Hackathon track of MSR’2021. Previous WoC hackathons resulted in four publications at MSR’2020.
 
-The results of the hackathon will be evaluated by the Hackathon
-Evaluation Committee based on the originality of the idea, potential
-impact of the proposed solution, and the sophistication of the
-artifacts produced during the hackathon.
+Any topics related to doing research, building tools, or improving infrastructure that supports global OSS development, helps industry use OSS, or educational/training aspects related to work in this giant network, are within the scope of the hackathon. For example:
 
-The winning teams will have an option to present their results at a
-special session of Mining Software Repositories conference 2021.
+    Applications that support finding suitable code, people, projects, or bugs and/or model the social and technical networks and their evolution.
 
-## 4. World of Code Resource for Hackathon
+    Applications that increase transparency by making it easier to become a contributor or that helps maintainers zero in on most relevant contributions.
 
-WoC version R represents 123M git repositories from GitHub, GitLab,
-BitBucket, etc. based on updates/new repositories identified on Mar
-7, 2020, and retrieved by Mar 28.  It has 2B git commits (42M
-authors), 8B blobs, and 8.3B trees. The content of these objects is
-augmented via cross-referencing (a graph) for immediate access to
-all object references associated with any specific object. For
-example, all commits that have created a specific blob, all
-repositories where a specific blob or a specific commit resides in,
-all commits for a specified author ID, the child commits of a
-specific commit, and other maps that are impossible to compute
-without complete data.
+    Applications that increase understanding of software supply chains and ecosystem: how and why they function and how to manage risks, especially as related to industry use of OSS.
 
-Developers often have multiple commit author IDs. WoC solves this
-problem via a map that associates each author ID with imputed
-developer identity . Some of these are actually bots .
+    Any infrastructure work that does data fusion or data quality improvements, such as leveraging all open source data sources in WoC resource and beyond.
 
-With many repositories being clones or forks, WoC for each repo also
-provides an estimated project identity for each repository . This
-results in 69M independent projects.
+    Approaches to better collect data increase the coverage or encourage outside contributions.
 
-Time-based selection of commits and selection of projects and
-authors based on the characteristics of files and activities
-associated with them is also provided.
+## Key Dates
 
-WoC pre-calculates basic summaries for each blob by running ctags
-and stores the results as well as diffs for all 2B commits.
-Finally, WoC provides blob to import/include/use statements parsed
-from blobs in 17 programming languages.
+    The intent for participation (including potential project ideas) will be collected until October 30, 2020. The intent should be submitted via email to organizers (audris@utk.edu, jdh@cs.cmu.edu, alexander.nolte@ut.ee)
 
-### Access
+    November 14: One day online training sessions, defining research questions, scoping problems, and team formation. People who did not submit any intent on November 15 can still join at this point. During the period of Oct 30 to Nov 14 organizers will help the participants to formulate the ideas to prepare for project pitches presented on Nov 14.
 
-Due to its large size, WoC provides ways to easily access, sample,
-and analyze the data based on all the cross-referencing
-capabilities. Shell, Python, and Perl API can be use on WoC servers
-via ssh (high performance) and REST APIs for web access.  Users need
-to fill in a short web form for ssh access.
+    Over the period of November 15 - December 5: multiple “hacking” days that include dedicated hackathon times and checkpoints to share, assess each team’s progress and provide support if necessary.
 
-### Participant needs                        
+    December 5: team presentations to the PC. PC will provide feedback to the presenters on the originality of the idea, the potential impact of the proposed solution, and on how to communicate the project ideas
 
-Participants who are comfortable using terminal would benefit from
-high performance of ssh access where two simple shell commands
-showCnt and getValues can be composed with regular shell commands
-into an arbitrarily complex analysis as described in the
-tutorial. Participants who disdain terminal can use Python in
-Jupyter notebooks on WoC servers or run Jupyter notebooks on
-participants' computers and access WoC via REST APIs .  The primary
-focus of WoC is to provide cross-referencing and completeness of the
-coverage of the git objects from public repositories. Participants
-will be responsible for integration of WoC data with other types of
-data they may need: e.g., issue metadata from GHtorrent, code
-parsing, statistical modeling, and and other types of data and
-analysis.
+    January 19: Submission of a description of the team projects (up to two pages) for the submission to the MSR2021 Hackathon track.
 
-### The research questions
+    February 22: Notification of the acceptance to MSR Hackathon Track published in MSR proceedings. The PC will judge submissions based on the clarity of the description, the originality of the idea, the potential impact of the proposed solution, and the sophistication of the artifacts produced during the hackathon.
 
-The purpose of WoC is to enable answering questions that can not be
-answered without the completeness and cross-referencing of public
-git data. Research on networks of developers, code, and API's would
-be benefit the most. For example, questions that require the
-measurement of activity of the entire OSS at a particular slice of
-time, identifying all commits/repositories/blobs/developers
-associated with a specific developer/blob/API, finding all child
-commits of any commit, or finding all forks/clones of a
-repository. Simple tasks like finding all commits/blobs associated
-with a repository are supported but do not require WoC, as ``git
-clone'' would suffice. WoC can be used for representative sampling
-of the developers and projects by developer and project network
-properties .  Such complete picture allows to go past MSR analyses
-limited by data filtered on the set of non-representative projects
-and, therefore, unable to capture the full scope of developer
-activity, code reuse, or API usage.  Mining questions might involve
-improving quality of WoC data, its performance, ways to link to
-other datasets. WoC use examples are in and in publications in
-Appendix III.  The evolution of open source software, developer and
-project ecosystems, past and current trends, counting and
-summarizing developers, projects, the source code, and the dynamics
-of developer and code movements across entire OSS ecosystem are
-examples of research questions that could not be answered without
-WoC. Answers to these questions have major practical implications
-for developers and industry alike: will a library becomes obsolete?
-Do we have any open source code?
+Organizers will provide support in the form of mentors that can help with technical issues. The hackathon will also provide the opportunity for participants to work with world-class researchers on relevant problems and research questions.
 
-### Sample data
-
-Since sampling large graphs is difficult, we provide a
-Jupyter notebook that investigates blobs/projects/authors associated
-with a Common Vulnerability and Exposure (CVE).
+A dedicated (issue) tracker on GitHub to answer questions and solve issues for the participants of MSR Hackathon will also be available. Slack and Zoom will be suggested as the main means of communication during the hackathon between teams, mentors and organizers. A dedicated Zoom room will be provided for each team during the entire duration of the event.
 
 
 ## References
 
-[CFP](https://github.com/woc-hack/msr-hackathon/blob/master/MSR-Hack-CFP.pdf)
+[CFP](https://2021.msrconf.org/track/hackathon)
 
 [WoC Tutorial](https://github.com/woc-hack/tutorial/blob/master/README.md)
 
