@@ -1,16 +1,16 @@
-## What to do before the hackathon (ASP before Nov 14)
+## What to do before the hackathon (ASAP before Nov 14)
 
 - [Please fill registration form](https://docs.google.com/forms/d/e/1FAIpQLSd4vA5Exr-pgySRHX_NWqLz9VTV2DB6XMlR-gue_CQm51qLOQ/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link) (we will need to create accounts for you)
 
 - [Please join the hackathon slack channel](https://join.slack.com/t/woc-hack/shared_invite/zt-iodol0cm-R99KHgN7KGiuZ0tVvOYZzQ)
 
-- Please go over the [tutorial](https://github.com/woc-hack/tutorial) if you have not done so (at least be able to log in). We will provide training on Sunday (Nov 15), but having some practice should speed things up tremedously.
+- Please go over the [tutorial](https://github.com/woc-hack/tutorial) if you have not done so (at least be able to log in). We will provide training on Sunday (Nov 15), but having some practice should speed things up tremendously.
 
-- Be ready to present the project idea on Nov 1 (1 slide/1 min) ([current ideas])(https://github.com/woc-hack/msr-hackathon/edit/master/ideas.md)
+- Be ready to present the project idea on Nov 1 (1 slide/1 min) ([current ideas])(https://github.com/woc-hack/msr-hackathon/edit/master/ideas.md) If your idea is not included, it would be great if you could email us!
 
-- If you have issues raise themm here https://github.com/woc-hack/msr-hackathon/issues
+- If you have issues raise them here https://github.com/woc-hack/msr-hackathon/issues
 
-- We will use zoom at https://tennessee.zoom.us/my/audris for the common events and will provide separte zoom channels for individual projects 
+- We will use zoom at https://tennessee.zoom.us/my/audris for the common events and will provide separate zoom channels for individual projects 
 
 ## MSR 2021 Hackathon Schedule
 
