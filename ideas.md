@@ -65,6 +65,5 @@ Isabella, Polytechnique  Montréal
    - 'Alias developer IDs in the entire set of Apache Foundation projects'
    
 ** gaokaipku@qq.com
-Kai, Peking University
-   - 'Reconstruct branch for each commit in WoC'
-   
+Kai, Jianyu, Gao , Peking University
+   - 'a developer expertise browser, it may include linking user ids in WoC to SO, characterizing users' programming skill (libraries he can use, for example) et.al.'
