@@ -6,15 +6,15 @@
 
 - Please go over the [tutorial](https://github.com/woc-hack/tutorial) if you have not done so (at least be able to log in). We will provide training on Sunday (Nov 15), but having some practice should speed things up tremendously.
 
-- Be ready to present the project idea on Nov 1 (1 slide/1 min) ([current ideas])(https://github.com/woc-hack/msr-hackathon/blob/master/ideas.md) If your idea is not included, it would be great if you could email us!
+- Be ready to present the project idea on Nov 1 (1 slide/1 min). [Current ideas](https://github.com/woc-hack/msr-hackathon/blob/master/ideas.md). If your idea is not included, it would be great if you could email us!
 
-- If you have issues raise them here https://github.com/woc-hack/msr-hackathon/issues
+- If you have issues raise them [here](https://github.com/woc-hack/msr-hackathon/issues)
 
 - We will use zoom at https://tennessee.zoom.us/my/audris for the common events and will provide separate zoom channels for individual projects 
 
 ## MSR 2021 Hackathon Schedule
 
-* November 14 (10am - 12pm EST): Welcoming session
+* November 14 (10am - 12pm EST): Welcoming session (https://tennessee.zoom.us/my/audris)
 * November 15
      -   9am - 10am EST: WoC tutorial
      -  10am - 11:30am EST: Checkpoint 1 (Team introductions)
