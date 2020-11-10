@@ -6,7 +6,7 @@
 
 - Please go over the [tutorial](https://github.com/woc-hack/tutorial) if you have not done so (at least be able to log in). We will provide training on Sunday (Nov 15), but having some practice should speed things up tremendously.
 
-- Be ready to present the project idea on Nov 1 (1 slide/1 min) ([current ideas])(https://github.com/woc-hack/msr-hackathon/edit/master/ideas.md) If your idea is not included, it would be great if you could email us!
+- Be ready to present the project idea on Nov 1 (1 slide/1 min) ([current ideas])(https://github.com/woc-hack/msr-hackathon/blob/master/ideas.md) If your idea is not included, it would be great if you could email us!
 
 - If you have issues raise them here https://github.com/woc-hack/msr-hackathon/issues
 
