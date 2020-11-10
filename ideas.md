@@ -4,23 +4,23 @@
    - 'Apply blockchain on software traceability for the purpose of security and transparency'.
    
 ** kuljitchahal.cse@gndu.ac.in
-    - Kuljit
-    - 'how much the Github initiatives for helping newcomers are
+   - Kuljit
+   - 'how much the Github initiatives for helping newcomers are
   actually beneficial, e.g, "Good First Issue"'
 
 
 ** lfp2@cin.ufpe.br
-    - Lavínia, University of Pernambuco
-    - 'Women's contribution to the open-source community'
+   - Lavínia, University of Pernambuco
+   - 'Women's contribution to the open-source community'
    
 ** waldenj1@nku.edu 
-    - James, Northern Kentucky U  
-    - 'Inflection points in open source software evolution' 
+   - James, Northern Kentucky U  
+   - 'Inflection points in open source software evolution' 
    
 ** vladimir.kovalenko@jetbrains.com, Sergey.Titov@jetbrains.com, egor.bogomolov@jetbrains.com
-    - Vladimir, Sergey, Egor, JetBrains Research
-    - Derive a dataset of method/class changes
-    - Build a collaboration graph of all available open source  software, and provide a tool to visualise and analyse it
+   - Vladimir, Sergey, Egor, JetBrains Research
+   - Derive a dataset of method/class changes
+   - Build a collaboration graph of all available open source  software, and provide a tool to visualise and analyse it
 
 ** jbs3hp@virginia.edu 
    - José, U of Virginia
@@ -50,13 +50,12 @@
    - Adam,  U of Tennessees, Knoxville
    - 'Provide a sampling interface for open source projects'
 ** david-reid@outlook.com
-David,  U of Tennessees, Knoxville
+   - David,  U of Tennessees, Knoxville
    - 'Identify actively used copies of vulnerable code'
 
 ** mahmoud.jahanshahi@gmail.com
    - Mahmoud
-   - 'To be able to distinguish developers’ suitability for a certain
-project based on their digital trace'
+   - 'To be able to distinguish developers’ suitability for a certain project based on their digital trace'
 
 ** isabella.ferreira@polymtl.ca
    - Isabella, Polytechnique  Montréal
@@ -67,4 +66,5 @@ project based on their digital trace'
    - 'a developer expertise browser, it may include linking user ids in WoC to SO, characterizing users' programming skill (libraries he can use, for example) et.al.'
 
 ** myong@andrew.cmu.edu
-
+   - Mencheng, Sophie, CMU
+   - (change in) (perhaps Python) library adoption in projects overtime by finding for example explicit "import" statements.
