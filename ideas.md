@@ -15,8 +15,8 @@ Voting: https://forms.gle/zVE4ngztoF7rMrFe8
   * 'Provide a sampling interface for open source projects'
 * Project 8 (David, david-reid@outlook.com):
   * 'Identify actively used copies of vulnerable code'
-* Project 9 (Mencheng, Sophie, myong@andrew.cmu.edu):
-  * (change in) (perhaps Python) library adoption in projects overtime by finding for example explicit "import" statements
+* Project 9 (Sam, Sophie, myong@andrew.cmu.edu):
+  * Investigate the potential [Diversity-Innovation Paradox](https://www.pnas.org/content/117/17/9284) effect in open source projects where innovation would be indicated by novel combination of library use as `import` statements.
 * Project 10 (Chris, cbogart@andrew.cmu.edu):
   * adapting https://github.com/caseycas/gitcproc to work on WoC.  GitcProc currently clones then analyzes a git repository and identifies commits (with date and committer and file and line numbers) that touched code snippets that match some pattern, either line-oriented (e.g. edit/delete/add the use of a particular variable or method), or block-oriented (e.g. capturing all edits within try blocks).
 
