@@ -25,7 +25,10 @@
 * December 2 (10am - 11:30am EST): Checkpoint 5
 * December 5 (10am - 1pm EST): Final team presentations
 
-
+## MSR 2021 Hackathon Organizer Contacts
+* Audris Mockus (audris@utk.edu)
+* Jim Herbsleb (jim.herbsleb@gmail.com)
+* Alexander Nolte (alexander.nolte@ut.ee)
 
 ## MSR 2021 Hackathon CFP
 
