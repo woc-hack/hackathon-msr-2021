@@ -7,8 +7,6 @@ Voting: https://forms.gle/zVE4ngztoF7rMrFe8
   * 'Inflection points in open source software evolution'
 * Project 3 (José, bs3hp@virginia.edu):
   * 'International and cross-sector (i.e., government, academia, industry) collaboration networks'
-* Project 4 (Tapajit, Lero, Yosra, tdey2@vols.utk.edu, yosra.kazemi@gmail.com):
-  * 'Identify commits created by small developer-specific bots'
 * Project 5 (James, jhammer3@vols.utk.edu):
   * 'Visualization of large collaboration graphs in WoC data'
 * Project 6 (Dylan, dlomax@vols.utk.edu):
@@ -23,6 +21,8 @@ Voting: https://forms.gle/zVE4ngztoF7rMrFe8
   * adapting https://github.com/caseycas/gitcproc to work on WoC.  GitcProc currently clones then analyzes a git repository and identifies commits (with date and committer and file and line numbers) that touched code snippets that match some pattern, either line-oriented (e.g. edit/delete/add the use of a particular variable or method), or block-oriented (e.g. capturing all edits within try blocks).
 
 # Africa & Europe:
+* Project 4 (Tapajit, Lero, Yosra, tdey2@vols.utk.edu, yosra.kazemi@gmail.com):
+  * 'Identify commits created by small developer-specific bots'
 * Project 11 (Yenatfanta, yenatshif@gmail.com):
   * 'Improve data mining capabilities for building datasets'
   * 'Apply blockchain on software traceability for the purpose of security and transparency'
