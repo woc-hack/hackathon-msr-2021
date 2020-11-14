@@ -66,8 +66,8 @@
    - 'a developer expertise browser, it may include linking user ids in WoC to SO, characterizing users' programming skill (libraries he can use, for example) et.al.'
 
 ** myong@andrew.cmu.edu
-   - Mencheng, Sophie, CMU
-   - (change in) (perhaps Python) library adoption in projects overtime by finding for example explicit "import" statements.
+   - Sam, Sophie, CMU
+   - Investigate the potential [Diversity-Innovation Paradox](https://www.pnas.org/content/117/17/9284) effect in open source projects where innovation would be indicated by novel combination of library use as `import` statements.
    
 ** cbogart@andrew.cmu.edu
     - Chris, CMU 
