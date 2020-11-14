@@ -68,3 +68,7 @@
 ** myong@andrew.cmu.edu
    - Mencheng, Sophie, CMU
    - (change in) (perhaps Python) library adoption in projects overtime by finding for example explicit "import" statements.
+   
+** cbogart@andrew.cmu.edu
+    - Chris, CMU 
+    - adapting https://github.com/caseycas/gitcproc to work on WoC.  GitcProc currently clones then analyzes a git repository and identifies commits (with date and committer and file and line numbers) that touched code snippets that match some pattern, either line-oriented (e.g. edit/delete/add the use of a particular variable or method), or block-oriented (e.g. capturing all edits within try blocks).
