@@ -5,4 +5,4 @@
 1. Diversity innovation (José, Lavínia, Sam, Sophie, https://github.com/woc-hack/diversity-innovation)
 1. Collab-graph (Vladimir, Nikolai, Elena, Mahmoud, https://github.com/woc-hack/collab-graph)
 1. Kai
-1. Tapajit & Ahmed
+1. TrackHack (Tapajit, Ahmed, https://github.com/woc-hack/trackhack)
