@@ -16,10 +16,10 @@
 
 Zoom link: https://tennessee.zoom.us/my/audris
 
-* November 14 (10am - 12pm EST): Welcoming session
+* November 14 (10am - 12pm EST): Welcoming session ([Recording](https://drive.google.com/file/d/1NQVwqqHn2LsHY33RCvQ69MDN-8DNBlLM/view?usp=sharing) / [Slides](https://drive.google.com/file/d/1zlY3Ai0E3-mgjgjW01dh543da_u9aJ6_/view?usp=sharing))
 * November 15
      -   9am - 10am EST: WoC tutorial
-     -  10am - 11:30am EST: Checkpoint 1 (Team introductions)
+     -  10am - 11:30am EST: Checkpoint 1: Team introductions ([Slides](https://drive.google.com/file/d/1QaUFcABvRDdVuMI00_cHpww7iSGcAnK0/view?usp=sharing))
      -  11:30am - 12:30pm EST: WoC tutorial repeat
 * November 18 (10am - 11:30am EST): Checkpoint 2
 * November 20 (10am - 11:30am EST): Checkpoint 3
