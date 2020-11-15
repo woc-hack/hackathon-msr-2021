@@ -1,20 +1,22 @@
-## What to do before the hackathon (ASAP before Nov 14)
+## Important links
 
-- [Please fill registration form](https://docs.google.com/forms/d/e/1FAIpQLSd4vA5Exr-pgySRHX_NWqLz9VTV2DB6XMlR-gue_CQm51qLOQ/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link) (we will need to create accounts for you)
+- [Hackathon projects](https://github.com/woc-hack/msr-hackathon/blob/master/projects.md)
 
-- [Please join the hackathon slack channel](https://join.slack.com/t/woc-hack/shared_invite/zt-iodol0cm-R99KHgN7KGiuZ0tVvOYZzQ)
+- [WoC registration form](https://docs.google.com/forms/d/e/1FAIpQLSd4vA5Exr-pgySRHX_NWqLz9VTV2DB6XMlR-gue_CQm51qLOQ/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link) 
 
-- Please go over the [tutorial](https://github.com/woc-hack/tutorial) if you have not done so (at least be able to log in). We will provide training on Sunday (Nov 15), but having some practice should speed things up tremendously.
+- [Hackathon Slack channel](https://join.slack.com/t/woc-hack/shared_invite/zt-iodol0cm-R99KHgN7KGiuZ0tVvOYZzQ)
 
-- Be ready to present the project idea on Nov 1 (1 slide/1 min). [Current ideas](https://github.com/woc-hack/msr-hackathon/blob/master/ideas.md). If your idea is not included, it would be great if you could email us!
+- [WoC tutorial](https://github.com/woc-hack/tutorial)
 
-- If you have issues raise them [here](https://github.com/woc-hack/msr-hackathon/issues)
+- [Submitted ideas](https://github.com/woc-hack/msr-hackathon/blob/master/ideas.md)
 
-- We will use zoom at https://tennessee.zoom.us/my/audris for the common events and will provide separate zoom channels for individual projects 
+- [Issue tracker](https://github.com/woc-hack/msr-hackathon/issues)
 
 ## MSR 2021 Hackathon Schedule
 
-* November 14 (10am - 12pm EST): Welcoming session (https://tennessee.zoom.us/my/audris)
+Zoom link: https://tennessee.zoom.us/my/audris
+
+* November 14 (10am - 12pm EST): Welcoming session
 * November 15
      -   9am - 10am EST: WoC tutorial
      -  10am - 11:30am EST: Checkpoint 1 (Team introductions)
