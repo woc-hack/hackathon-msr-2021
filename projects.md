@@ -4,5 +4,5 @@
 1. Inflection points (Noah, Kuljit, James, https://github.com/woc-hack/inflection-points)
 1. Diversity innovation (José, Lavínia, Sam, Sophie, https://github.com/woc-hack/diversity-innovation)
 1. Collab-graph (Vladimir, Nikolai, Elena, Mahmoud, https://github.com/woc-hack/collab-graph)
-1. Developer expertise browser (Kai, Jianyu, https://github.com/woc-hack/Developer_expertise_browser)
+1. DEB (Kai, Jianyu, Hao, https://github.com/woc-hack/Developer_expertise_browser)
 1. TrackHack (Tapajit, Ahmed, https://github.com/woc-hack/trackhack)
