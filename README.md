@@ -1,15 +1,10 @@
 ## Important links
 
 - [Hackathon projects](https://github.com/woc-hack/msr-hackathon/blob/master/projects.md)
-
 - [WoC registration form](https://docs.google.com/forms/d/e/1FAIpQLSd4vA5Exr-pgySRHX_NWqLz9VTV2DB6XMlR-gue_CQm51qLOQ/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link) 
-
 - [Hackathon Slack channel](https://join.slack.com/t/woc-hack/shared_invite/zt-iodol0cm-R99KHgN7KGiuZ0tVvOYZzQ)
-
 - [WoC tutorial](https://github.com/woc-hack/tutorial)
-
 - [Submitted ideas](https://github.com/woc-hack/msr-hackathon/blob/master/ideas.md)
-
 - [Issue tracker](https://github.com/woc-hack/msr-hackathon/issues)
 
 ## MSR 2021 Hackathon Schedule
