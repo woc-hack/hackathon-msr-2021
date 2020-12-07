@@ -21,7 +21,7 @@ Zoom link: https://tennessee.zoom.us/my/audris
 * November 20 (10am - 11:30am EST): Checkpoint 3 ([Recording](https://drive.google.com/file/d/1mceqNwnr7ilPn41eIH_NgEGl3HG1y-dU/view?usp=sharing))
 * November 25 (10am - 11:30am EST): Checkpoint 4 ([Recording](https://drive.google.com/file/d/14OshGrdpL4TpdVjJpNReohEcWmwNZUUW/view?usp=sharing))
 * December 2 (10am - 11:30am EST): Checkpoint 5 ([Recording](https://drive.google.com/file/d/1a20WAr96m6XingD15ik5EyxccXiDJ5jo/view?usp=sharing))
-* December 5 (10am - 1pm EST): Final team presentations (10 minutes per team)
+* December 5 (10am - 1pm EST): Final team presentations (10 minutes per team) ([Recording](https://drive.google.com/file/d/12TsObMklkd06EoV1d2ceKR9XVgBlmT-D/view?usp=sharing))
      -   Project idea / goal / research question
      -   Approach incl. usage of WoC
      -   Obstacles you had to overcome on the way
