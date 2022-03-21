@@ -1,12 +1,12 @@
 ## Important links
 
-- [MSR hackathon track submission information](https://github.com/woc-hack/msr-hackathon/blob/master/msr-submission.md)
-- [Hackathon projects](https://github.com/woc-hack/msr-hackathon/blob/master/projects.md)
+- [MSR hackathon track submission information](https://github.com/woc-hack/hackathon-msr-2021/blob/master/msr-submission.md)
+- [Hackathon projects](https://github.com/woc-hack/hackathon-msr-2021/blob/master/projects.md)
 - [WoC registration form](https://docs.google.com/forms/d/e/1FAIpQLSd4vA5Exr-pgySRHX_NWqLz9VTV2DB6XMlR-gue_CQm51qLOQ/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link) 
 - [Hackathon Slack channel](https://join.slack.com/t/woc-hack/shared_invite/zt-iodol0cm-R99KHgN7KGiuZ0tVvOYZzQ)
 - [WoC tutorial](https://github.com/woc-hack/tutorial)
-- [Submitted ideas](https://github.com/woc-hack/msr-hackathon/blob/master/ideas.md)
-- [Issue tracker](https://github.com/woc-hack/msr-hackathon/issues)
+- [Submitted ideas](https://github.com/woc-hack/hackathon-msr-2021/blob/master/ideas.md)
+- [Issue tracker](https://github.com/woc-hack/hackathon-msr-2021/issues)
 
 ## MSR 2021 Hackathon Schedule
 
@@ -84,10 +84,10 @@ A dedicated (issue) tracker on GitHub to answer questions and solve issues for t
 
 [WoC Tutorial](https://github.com/woc-hack/tutorial/blob/master/README.md)
 
-[CVE Dataset Notebook](https://github.com/woc-hack/msr-hackathon/blob/master/CVEJupyter.ipynb)
+[CVE Dataset Notebook](https://github.com/woc-hack/hackathon-msr-2021/blob/master/CVEJupyter.ipynb)
 
-[REST Notebook](https://github.com/woc-hack/msr-hackathon/blob/master/RESTJupyter.ipynb)
+[REST Notebook](https://github.com/woc-hack/hackathon-msr-2021/blob/master/RESTJupyter.ipynb)
 
-[How to do sampling](https://github.com/woc-hack/msr-hackathon/blob/master/sampling-resource.md)
+[How to do sampling](https://github.com/woc-hack/hackathon-msr-2021/blob/master/sampling-resource.md)
 
-[Python Notebook](https://github.com/woc-hack/msr-hackathon/blob/master/PYJupyter.ipynb)
+[Python Notebook](https://github.com/woc-hack/hackathon-msr-2021/blob/master/PYJupyter.ipynb)
